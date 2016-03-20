@@ -1,6 +1,6 @@
 """
 File name: Problem1.py
-Descrition: This program will find the sum of all multiples
+Description: This program will find the sum of all multiples
             of 3 or 5 below 1000.
 Author: Rachael Thormann
 Date Created: 3/19/2016
